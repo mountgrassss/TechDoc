@@ -21,3 +21,7 @@ Finally go to Consoles > Open an IPython console. This will open a new console t
 #install pydot 
 pip install pydot
 pip install graphviz
+
+#some other packages need to be installed
+conda install h5py
+conda install matplotlib

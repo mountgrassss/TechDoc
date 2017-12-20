@@ -1,0 +1,3 @@
+Tips:
+1. Open Jupyter Notebook in the path you want to create the Jupyter notebook file
+2. Magic command: % , such as %matplotlib inline

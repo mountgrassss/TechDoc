@@ -2,6 +2,9 @@
 #Install Keras + Tensorflow
 Good reference:  http://inmachineswetrust.com/posts/deep-learning-setup/#cell1
 
+After Keras+Tensorflow is installed successfully, use the following command to install Spyder
+conda install Spyder 
+
 # Import modules in virtual environment into Spyder
 1. Open "Anaconda Prompt"
 2. type "Activate deeplearning"

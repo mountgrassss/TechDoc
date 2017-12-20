@@ -1,0 +1,23 @@
+
+#Install Keras + Tensorflow
+Good reference:  http://inmachineswetrust.com/posts/deep-learning-setup/#cell1
+
+# Import modules in virtual environment into Spyder
+1. Open "Anaconda Prompt"
+2. type "Activate deeplearning"
+3. type "Python"
+4. in python environment, use the following scripts to get python.exe path:
+	
+import sys
+sys.executable
+
+5. Copy the output of the last command
+6. Open Spyder and go to "Tools > Preferences > Python interpreter"
+7. Select the option:
+Use the following Python interpreter
+and paste there the result of step 3.
+Finally go to Consoles > Open an IPython console. This will open a new console that will be running the same Python version in deeplearning environment inside Spyder. 
+
+#install pydot 
+pip install pydot
+pip install graphviz
